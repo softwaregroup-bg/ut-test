@@ -1,3 +1,8 @@
+<a name="5.2.9"></a>
+## [5.2.9](https://github.com/softwaregroup-bg/ut-test/compare/v5.2.8...v5.2.9) (2017-03-02)
+
+
+
 <a name="5.2.8"></a>
 ## [5.2.8](https://github.com/softwaregroup-bg/ut-test/compare/v5.2.7...v5.2.8) (2017-03-01)
 
