@@ -1,3 +1,13 @@
+<a name="5.2.10"></a>
+## [5.2.10](https://github.com/softwaregroup-bg/ut-test/compare/v5.2.9...v5.2.10) (2017-03-02)
+
+
+### Bug Fixes
+
+* tests after product redesign ([4ddd438](https://github.com/softwaregroup-bg/ut-test/commit/4ddd438))
+
+
+
 <a name="5.2.9"></a>
 ## [5.2.9](https://github.com/softwaregroup-bg/ut-test/compare/v5.2.8...v5.2.9) (2017-03-02)
 
