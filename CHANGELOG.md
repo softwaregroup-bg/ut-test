@@ -1,3 +1,13 @@
+<a name="5.3.0"></a>
+# [5.3.0](https://github.com/softwaregroup-bg/ut-test/compare/v5.2.11...v5.3.0) (2017-03-04)
+
+
+### Features
+
+* UIS-968 add middleName field ([4af5d89](https://github.com/softwaregroup-bg/ut-test/commit/4af5d89))
+
+
+
 <a name="5.2.11"></a>
 ## [5.2.11](https://github.com/softwaregroup-bg/ut-test/compare/v5.2.10...v5.2.11) (2017-03-02)
 
