@@ -1,3 +1,13 @@
+<a name="5.3.3"></a>
+## [5.3.3](https://github.com/softwaregroup-bg/ut-test/compare/v5.3.2...v5.3.3) (2017-03-08)
+
+
+### Bug Fixes
+
+* dependencies ([2026743](https://github.com/softwaregroup-bg/ut-test/commit/2026743))
+
+
+
 <a name="5.3.2"></a>
 ## [5.3.2](https://github.com/softwaregroup-bg/ut-test/compare/v5.3.1...v5.3.2) (2017-03-08)
 
