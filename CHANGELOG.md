@@ -1,3 +1,23 @@
+<a name="5.3.4"></a>
+## [5.3.4](https://github.com/softwaregroup-bg/ut-test/compare/v5.3.3...v5.3.4) (2017-03-08)
+
+
+### Bug Fixes
+
+* UIS-1263 rename SP to organization.delete ([b7d6471](https://github.com/softwaregroup-bg/ut-test/commit/b7d6471))
+
+
+
+<a name="5.3.3"></a>
+## [5.3.3](https://github.com/softwaregroup-bg/ut-test/compare/v5.3.2...v5.3.3) (2017-03-08)
+
+
+### Bug Fixes
+
+* dependencies ([2026743](https://github.com/softwaregroup-bg/ut-test/commit/2026743))
+
+
+
 <a name="5.3.2"></a>
 ## [5.3.2](https://github.com/softwaregroup-bg/ut-test/compare/v5.3.1...v5.3.2) (2017-03-08)
 
