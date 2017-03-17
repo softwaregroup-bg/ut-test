@@ -1,3 +1,19 @@
+<a name="5.4.0"></a>
+# [5.4.0](https://github.com/softwaregroup-bg/ut-test/compare/v5.3.13...v5.4.0) (2017-03-17)
+
+
+### Bug Fixes
+
+* MCTUNE-2550 - Fixed validations missing proposition ([b541330](https://github.com/softwaregroup-bg/ut-test/commit/b541330))
+* MCTUNE-2550 - Fixed validations missing proposition ([e7955e1](https://github.com/softwaregroup-bg/ut-test/commit/e7955e1))
+
+
+### Features
+
+* MCTUNE-2550 - Fixed validations missing proposition ([dc47e8d](https://github.com/softwaregroup-bg/ut-test/commit/dc47e8d))
+
+
+
 <a name="5.3.13"></a>
 ## [5.3.13](https://github.com/softwaregroup-bg/ut-test/compare/v5.3.12...v5.3.13) (2017-03-17)
 
