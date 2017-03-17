@@ -1,3 +1,23 @@
+<a name="5.3.12"></a>
+## [5.3.12](https://github.com/softwaregroup-bg/ut-test/compare/v5.3.11...v5.3.12) (2017-03-16)
+
+
+
+<a name="5.3.11"></a>
+## [5.3.11](https://github.com/softwaregroup-bg/ut-test/compare/v5.3.10...v5.3.11) (2017-03-16)
+
+
+
+<a name="5.3.10"></a>
+## [5.3.10](https://github.com/softwaregroup-bg/ut-test/compare/v5.3.9...v5.3.10) (2017-03-16)
+
+
+### Bug Fixes
+
+* UIS-1776 ([4702f40](https://github.com/softwaregroup-bg/ut-test/commit/4702f40))
+
+
+
 <a name="5.3.9"></a>
 ## [5.3.9](https://github.com/softwaregroup-bg/ut-test/compare/v5.3.8...v5.3.9) (2017-03-15)
 
