@@ -1,3 +1,13 @@
+<a name="5.4.1"></a>
+## [5.4.1](https://github.com/softwaregroup-bg/ut-test/compare/v5.4.0...v5.4.1) (2017-03-17)
+
+
+### Bug Fixes
+
+* joi ([ed2051a](https://github.com/softwaregroup-bg/ut-test/commit/ed2051a))
+
+
+
 <a name="5.4.0"></a>
 # [5.4.0](https://github.com/softwaregroup-bg/ut-test/compare/v5.3.13...v5.4.0) (2017-03-17)
 
