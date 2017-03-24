@@ -1,3 +1,49 @@
+<a name="5.4.4"></a>
+## [5.4.4](https://github.com/softwaregroup-bg/ut-test/compare/v5.4.3...v5.4.4) (2017-03-24)
+
+
+
+<a name="5.4.3"></a>
+## [5.4.3](https://github.com/softwaregroup-bg/ut-test/compare/v5.4.2...v5.4.3) (2017-03-21)
+
+
+
+<a name="5.4.2"></a>
+## [5.4.2](https://github.com/softwaregroup-bg/ut-test/compare/v5.4.1...v5.4.2) (2017-03-20)
+
+
+
+<a name="5.4.1"></a>
+## [5.4.1](https://github.com/softwaregroup-bg/ut-test/compare/v5.4.0...v5.4.1) (2017-03-17)
+
+
+### Bug Fixes
+
+* joi ([ed2051a](https://github.com/softwaregroup-bg/ut-test/commit/ed2051a))
+
+
+
+<a name="5.4.0"></a>
+# [5.4.0](https://github.com/softwaregroup-bg/ut-test/compare/v5.3.13...v5.4.0) (2017-03-17)
+
+
+### Bug Fixes
+
+* MCTUNE-2550 - Fixed validations missing proposition ([b541330](https://github.com/softwaregroup-bg/ut-test/commit/b541330))
+* MCTUNE-2550 - Fixed validations missing proposition ([e7955e1](https://github.com/softwaregroup-bg/ut-test/commit/e7955e1))
+
+
+### Features
+
+* MCTUNE-2550 - Fixed validations missing proposition ([dc47e8d](https://github.com/softwaregroup-bg/ut-test/commit/dc47e8d))
+
+
+
+<a name="5.3.13"></a>
+## [5.3.13](https://github.com/softwaregroup-bg/ut-test/compare/v5.3.12...v5.3.13) (2017-03-17)
+
+
+
 <a name="5.3.12"></a>
 ## [5.3.12](https://github.com/softwaregroup-bg/ut-test/compare/v5.3.11...v5.3.12) (2017-03-16)
 
