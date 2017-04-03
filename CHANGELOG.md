@@ -1,3 +1,38 @@
+<a name="5.4.12"></a>
+## [5.4.12](https://github.com/softwaregroup-bg/ut-test/compare/v5.4.11...v5.4.12) (2017-03-31)
+
+
+
+<a name="5.4.11"></a>
+## [5.4.11](https://github.com/softwaregroup-bg/ut-test/compare/v5.4.10...v5.4.11) (2017-03-31)
+
+
+
+<a name="5.4.10"></a>
+## [5.4.10](https://github.com/softwaregroup-bg/ut-test/compare/v5.4.9...v5.4.10) (2017-03-31)
+
+
+
+<a name="5.4.9"></a>
+## [5.4.9](https://github.com/softwaregroup-bg/ut-test/compare/v5.4.8...v5.4.9) (2017-03-30)
+
+
+
+<a name="5.4.8"></a>
+## [5.4.8](https://github.com/softwaregroup-bg/ut-test/compare/v5.4.7...v5.4.8) (2017-03-29)
+
+
+
+<a name="5.4.7"></a>
+## [5.4.7](https://github.com/softwaregroup-bg/ut-test/compare/v5.4.6...v5.4.7) (2017-03-29)
+
+
+### Bug Fixes
+
+* update personName validations ([2978f89](https://github.com/softwaregroup-bg/ut-test/commit/2978f89))
+
+
+
 <a name="5.4.6"></a>
 ## [5.4.6](https://github.com/softwaregroup-bg/ut-test/compare/v5.4.5...v5.4.6) (2017-03-28)
 
