@@ -1,3 +1,16 @@
+<a name="5.4.14"></a>
+## [5.4.14](https://github.com/softwaregroup-bg/ut-test/compare/v5.4.13...v5.4.14) (2017-04-05)
+
+
+### Bug Fixes
+
+* add no name batch validations ([4549541](https://github.com/softwaregroup-bg/ut-test/commit/4549541))
+* add product validations ([7467031](https://github.com/softwaregroup-bg/ut-test/commit/7467031))
+* get batch validations ([84fd41f](https://github.com/softwaregroup-bg/ut-test/commit/84fd41f))
+* update product validations ([f866736](https://github.com/softwaregroup-bg/ut-test/commit/f866736))
+
+
+
 <a name="5.4.13"></a>
 ## [5.4.13](https://github.com/softwaregroup-bg/ut-test/compare/v5.4.12...v5.4.13) (2017-04-03)
 
