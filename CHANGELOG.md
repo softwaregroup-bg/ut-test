@@ -1,3 +1,14 @@
+<a name="5.4.15"></a>
+## [5.4.15](https://github.com/softwaregroup-bg/ut-test/compare/v5.4.14...v5.4.15) (2017-04-05)
+
+
+### Bug Fixes
+
+* joi validation ([847f35d](https://github.com/softwaregroup-bg/ut-test/commit/847f35d))
+* joi validations ([c20b46a](https://github.com/softwaregroup-bg/ut-test/commit/c20b46a))
+
+
+
 <a name="5.4.14"></a>
 ## [5.4.14](https://github.com/softwaregroup-bg/ut-test/compare/v5.4.13...v5.4.14) (2017-04-05)
 
