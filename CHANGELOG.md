@@ -1,3 +1,29 @@
+<a name="5.5.4"></a>
+## [5.5.4](https://github.com/softwaregroup-bg/ut-test/compare/v5.5.3...v5.5.4) (2017-04-12)
+
+
+### Bug Fixes
+
+* edit product test joi validation ([73bbfe3](https://github.com/softwaregroup-bg/ut-test/commit/73bbfe3))
+* product cvv joi validations ([573d13d](https://github.com/softwaregroup-bg/ut-test/commit/573d13d))
+
+
+
+<a name="5.5.3"></a>
+## [5.5.3](https://github.com/softwaregroup-bg/ut-test/compare/v5.5.2...v5.5.3) (2017-04-11)
+
+
+
+<a name="5.5.2"></a>
+## [5.5.2](https://github.com/softwaregroup-bg/ut-test/compare/v5.5.1...v5.5.2) (2017-04-11)
+
+
+
+<a name="5.5.1"></a>
+## [5.5.1](https://github.com/softwaregroup-bg/ut-test/compare/v5.5.0...v5.5.1) (2017-04-10)
+
+
+
 <a name="5.5.0"></a>
 # [5.5.0](https://github.com/softwaregroup-bg/ut-test/compare/v5.4.15...v5.5.0) (2017-04-06)
 
