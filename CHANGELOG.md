@@ -1,3 +1,13 @@
+<a name="5.5.5"></a>
+## [5.5.5](https://github.com/softwaregroup-bg/ut-test/compare/v5.5.4...v5.5.5) (2017-04-13)
+
+
+### Bug Fixes
+
+* add accountLinkLimit in getApplication validations ([2fae0d9](https://github.com/softwaregroup-bg/ut-test/commit/2fae0d9))
+
+
+
 <a name="5.5.4"></a>
 ## [5.5.4](https://github.com/softwaregroup-bg/ut-test/compare/v5.5.3...v5.5.4) (2017-04-12)
 
