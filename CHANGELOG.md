@@ -1,3 +1,13 @@
+<a name="5.5.9"></a>
+## [5.5.9](https://github.com/softwaregroup-bg/ut-test/compare/v5.5.8...v5.5.9) (2017-04-18)
+
+
+### Bug Fixes
+
+* validations for pvk, cvk and decimalisation ([54978f7](https://github.com/softwaregroup-bg/ut-test/commit/54978f7))
+
+
+
 <a name="5.5.8"></a>
 ## [5.5.8](https://github.com/softwaregroup-bg/ut-test/compare/v5.5.7...v5.5.8) (2017-04-18)
 
