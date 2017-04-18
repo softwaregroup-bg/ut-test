@@ -1,3 +1,14 @@
+<a name="5.5.7"></a>
+## [5.5.7](https://github.com/softwaregroup-bg/ut-test/compare/v5.5.6...v5.5.7) (2017-04-18)
+
+
+### Bug Fixes
+
+* ABT-1065 test validations ([7522058](https://github.com/softwaregroup-bg/ut-test/commit/7522058))
+* ABT-1065 validation ([ff132a5](https://github.com/softwaregroup-bg/ut-test/commit/ff132a5))
+
+
+
 <a name="5.5.6"></a>
 ## [5.5.6](https://github.com/softwaregroup-bg/ut-test/compare/v5.5.5...v5.5.6) (2017-04-18)
 
