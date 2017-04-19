@@ -1,3 +1,34 @@
+<a name="5.5.9"></a>
+## [5.5.9](https://github.com/softwaregroup-bg/ut-test/compare/v5.5.8...v5.5.9) (2017-04-18)
+
+
+### Bug Fixes
+
+* validations for pvk, cvk and decimalisation ([54978f7](https://github.com/softwaregroup-bg/ut-test/commit/54978f7))
+
+
+
+<a name="5.5.8"></a>
+## [5.5.8](https://github.com/softwaregroup-bg/ut-test/compare/v5.5.7...v5.5.8) (2017-04-18)
+
+
+
+<a name="5.5.7"></a>
+## [5.5.7](https://github.com/softwaregroup-bg/ut-test/compare/v5.5.6...v5.5.7) (2017-04-18)
+
+
+### Bug Fixes
+
+* ABT-1065 test validations ([7522058](https://github.com/softwaregroup-bg/ut-test/commit/7522058))
+* ABT-1065 validation ([ff132a5](https://github.com/softwaregroup-bg/ut-test/commit/ff132a5))
+
+
+
+<a name="5.5.6"></a>
+## [5.5.6](https://github.com/softwaregroup-bg/ut-test/compare/v5.5.5...v5.5.6) (2017-04-18)
+
+
+
 <a name="5.5.5"></a>
 ## [5.5.5](https://github.com/softwaregroup-bg/ut-test/compare/v5.5.4...v5.5.5) (2017-04-13)
 
