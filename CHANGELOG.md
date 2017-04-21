@@ -1,3 +1,14 @@
+<a name="5.5.10"></a>
+## [5.5.10](https://github.com/softwaregroup-bg/ut-test/compare/v5.5.9...v5.5.10) (2017-04-20)
+
+
+### Bug Fixes
+
+* ABT-1058 action category validation ([8a47689](https://github.com/softwaregroup-bg/ut-test/commit/8a47689))
+* ABT-1065 remove term column ([0371c63](https://github.com/softwaregroup-bg/ut-test/commit/0371c63))
+
+
+
 <a name="5.5.9"></a>
 ## [5.5.9](https://github.com/softwaregroup-bg/ut-test/compare/v5.5.8...v5.5.9) (2017-04-18)
 
