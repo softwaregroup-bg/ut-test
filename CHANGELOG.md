@@ -1,3 +1,13 @@
+<a name="5.5.13"></a>
+## [5.5.13](https://github.com/softwaregroup-bg/ut-test/compare/v5.5.12...v5.5.13) (2017-04-24)
+
+
+### Bug Fixes
+
+* fixing joi validation ([67e7bba](https://github.com/softwaregroup-bg/ut-test/commit/67e7bba))
+
+
+
 <a name="5.5.12"></a>
 ## [5.5.12](https://github.com/softwaregroup-bg/ut-test/compare/v5.5.11...v5.5.12) (2017-04-21)
 
