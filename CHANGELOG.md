@@ -1,3 +1,44 @@
+<a name="5.5.15"></a>
+## [5.5.15](https://github.com/softwaregroup-bg/ut-test/compare/v5.5.14...v5.5.15) (2017-04-24)
+
+
+
+<a name="5.5.14"></a>
+## [5.5.14](https://github.com/softwaregroup-bg/ut-test/compare/v5.5.13...v5.5.14) (2017-04-24)
+
+
+
+<a name="5.5.13"></a>
+## [5.5.13](https://github.com/softwaregroup-bg/ut-test/compare/v5.5.12...v5.5.13) (2017-04-24)
+
+
+### Bug Fixes
+
+* fixing joi validation ([67e7bba](https://github.com/softwaregroup-bg/ut-test/commit/67e7bba))
+
+
+
+<a name="5.5.12"></a>
+## [5.5.12](https://github.com/softwaregroup-bg/ut-test/compare/v5.5.11...v5.5.12) (2017-04-21)
+
+
+
+<a name="5.5.11"></a>
+## [5.5.11](https://github.com/softwaregroup-bg/ut-test/compare/v5.5.10...v5.5.11) (2017-04-21)
+
+
+
+<a name="5.5.10"></a>
+## [5.5.10](https://github.com/softwaregroup-bg/ut-test/compare/v5.5.9...v5.5.10) (2017-04-20)
+
+
+### Bug Fixes
+
+* ABT-1058 action category validation ([8a47689](https://github.com/softwaregroup-bg/ut-test/commit/8a47689))
+* ABT-1065 remove term column ([0371c63](https://github.com/softwaregroup-bg/ut-test/commit/0371c63))
+
+
+
 <a name="5.5.9"></a>
 ## [5.5.9](https://github.com/softwaregroup-bg/ut-test/compare/v5.5.8...v5.5.9) (2017-04-18)
 
