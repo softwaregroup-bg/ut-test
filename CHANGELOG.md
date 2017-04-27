@@ -1,3 +1,19 @@
+<a name="5.5.19"></a>
+## [5.5.19](https://github.com/softwaregroup-bg/ut-test/compare/v5.5.18...v5.5.19) (2017-04-27)
+
+
+
+<a name="5.5.18"></a>
+## [5.5.18](https://github.com/softwaregroup-bg/ut-test/compare/v5.5.17...v5.5.18) (2017-04-27)
+
+
+### Bug Fixes
+
+* add issuerId in product ([8f8fa43](https://github.com/softwaregroup-bg/ut-test/commit/8f8fa43))
+* product add/edit joi validations ([060b064](https://github.com/softwaregroup-bg/ut-test/commit/060b064))
+
+
+
 <a name="5.5.17"></a>
 ## [5.5.17](https://github.com/softwaregroup-bg/ut-test/compare/v5.5.16...v5.5.17) (2017-04-25)
 
