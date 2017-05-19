@@ -1,3 +1,28 @@
+<a name="5.5.30"></a>
+## [5.5.30](https://github.com/softwaregroup-bg/ut-test/compare/v5.5.29...v5.5.30) (2017-05-19)
+
+
+
+<a name="5.5.29"></a>
+## [5.5.29](https://github.com/softwaregroup-bg/ut-test/compare/v5.5.28...v5.5.29) (2017-05-17)
+
+
+
+<a name="5.5.28"></a>
+## [5.5.28](https://github.com/softwaregroup-bg/ut-test/compare/v5.5.27...v5.5.28) (2017-05-17)
+
+
+
+<a name="5.5.27"></a>
+## [5.5.27](https://github.com/softwaregroup-bg/ut-test/compare/v5.5.26...v5.5.27) (2017-05-15)
+
+
+
+<a name="5.5.26"></a>
+## [5.5.26](https://github.com/softwaregroup-bg/ut-test/compare/v5.5.25...v5.5.26) (2017-05-11)
+
+
+
 <a name="5.5.25"></a>
 ## [5.5.25](https://github.com/softwaregroup-bg/ut-test/compare/v5.5.24...v5.5.25) (2017-05-09)
 
