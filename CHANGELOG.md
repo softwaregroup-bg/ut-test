@@ -1,3 +1,13 @@
+<a name="5.5.36"></a>
+## [5.5.36](https://github.com/softwaregroup-bg/ut-test/compare/v5.5.35...v5.5.36) (2017-05-26)
+
+
+### Bug Fixes
+
+* pinRetries field in tests ([0809a9a](https://github.com/softwaregroup-bg/ut-test/commit/0809a9a))
+
+
+
 <a name="5.5.35"></a>
 ## [5.5.35](https://github.com/softwaregroup-bg/ut-test/compare/v5.5.34...v5.5.35) (2017-05-22)
 
