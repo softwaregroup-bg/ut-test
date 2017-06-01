@@ -1,3 +1,58 @@
+<a name="5.5.39"></a>
+## [5.5.39](https://github.com/softwaregroup-bg/ut-test/compare/v5.5.38...v5.5.39) (2017-05-31)
+
+
+### Bug Fixes
+
+* additional parameter added to joi ([2ad2c09](https://github.com/softwaregroup-bg/ut-test/commit/2ad2c09))
+
+
+
+<a name="5.5.38"></a>
+## [5.5.38](https://github.com/softwaregroup-bg/ut-test/compare/v5.5.37...v5.5.38) (2017-05-31)
+
+
+
+<a name="5.5.37"></a>
+## [5.5.37](https://github.com/softwaregroup-bg/ut-test/compare/v5.5.36...v5.5.37) (2017-05-29)
+
+
+
+<a name="5.5.36"></a>
+## [5.5.36](https://github.com/softwaregroup-bg/ut-test/compare/v5.5.35...v5.5.36) (2017-05-26)
+
+
+### Bug Fixes
+
+* pinRetries field in tests ([0809a9a](https://github.com/softwaregroup-bg/ut-test/commit/0809a9a))
+
+
+
+<a name="5.5.35"></a>
+## [5.5.35](https://github.com/softwaregroup-bg/ut-test/compare/v5.5.34...v5.5.35) (2017-05-22)
+
+
+
+<a name="5.5.34"></a>
+## [5.5.34](https://github.com/softwaregroup-bg/ut-test/compare/v5.5.33...v5.5.34) (2017-05-22)
+
+
+
+<a name="5.5.33"></a>
+## [5.5.33](https://github.com/softwaregroup-bg/ut-test/compare/v5.5.32...v5.5.33) (2017-05-22)
+
+
+
+<a name="5.5.32"></a>
+## [5.5.32](https://github.com/softwaregroup-bg/ut-test/compare/v5.5.31...v5.5.32) (2017-05-22)
+
+
+
+<a name="5.5.31"></a>
+## [5.5.31](https://github.com/softwaregroup-bg/ut-test/compare/v5.5.30...v5.5.31) (2017-05-22)
+
+
+
 <a name="5.5.30"></a>
 ## [5.5.30](https://github.com/softwaregroup-bg/ut-test/compare/v5.5.29...v5.5.30) (2017-05-19)
 
