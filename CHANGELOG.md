@@ -1,3 +1,18 @@
+<a name="5.5.40"></a>
+## [5.5.40](https://github.com/softwaregroup-bg/ut-test/compare/v5.5.39...v5.5.40) (2017-06-01)
+
+
+
+<a name="5.5.39"></a>
+## [5.5.39](https://github.com/softwaregroup-bg/ut-test/compare/v5.5.38...v5.5.39) (2017-05-31)
+
+
+### Bug Fixes
+
+* additional parameter added to joi ([2ad2c09](https://github.com/softwaregroup-bg/ut-test/commit/2ad2c09))
+
+
+
 <a name="5.5.38"></a>
 ## [5.5.38](https://github.com/softwaregroup-bg/ut-test/compare/v5.5.37...v5.5.38) (2017-05-31)
 
