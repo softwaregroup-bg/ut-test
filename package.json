@@ -1,6 +1,6 @@
 {
   "name": "ut-test",
-  "version": "5.6.4",
+  "version": "5.6.7",
   "description": "UT test library",
   "main": "index.js",
   "scripts": {
