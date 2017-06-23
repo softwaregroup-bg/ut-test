@@ -1,3 +1,28 @@
+<a name="5.6.11"></a>
+## [5.6.11](https://github.com/softwaregroup-bg/ut-test/compare/v5.6.10...v5.6.11) (2017-06-22)
+
+
+### Bug Fixes
+
+* add documentId to document related tests ([ebf83ff](https://github.com/softwaregroup-bg/ut-test/commit/ebf83ff))
+* add documentId to document related tests ([f472bf2](https://github.com/softwaregroup-bg/ut-test/commit/f472bf2))
+* alter customer.js ([c52e6a9](https://github.com/softwaregroup-bg/ut-test/commit/c52e6a9))
+* alter customer.js ([a6bf885](https://github.com/softwaregroup-bg/ut-test/commit/a6bf885))
+* alter joi validations ([e71fa51](https://github.com/softwaregroup-bg/ut-test/commit/e71fa51))
+* alter joi validations ([a7c5737](https://github.com/softwaregroup-bg/ut-test/commit/a7c5737))
+* alter tests ([5fe7034](https://github.com/softwaregroup-bg/ut-test/commit/5fe7034))
+* alter tests ([1f2f246](https://github.com/softwaregroup-bg/ut-test/commit/1f2f246))
+* customer validation for customer MC ABT-1452 ([6324ffc](https://github.com/softwaregroup-bg/ut-test/commit/6324ffc))
+* customer validation for customer MC ABT-1452 ([c82bf0a](https://github.com/softwaregroup-bg/ut-test/commit/c82bf0a))
+* fix tests ([adb139b](https://github.com/softwaregroup-bg/ut-test/commit/adb139b))
+* fix user tests ([e93ddb7](https://github.com/softwaregroup-bg/ut-test/commit/e93ddb7))
+* update joi validation ([1c68d00](https://github.com/softwaregroup-bg/ut-test/commit/1c68d00))
+* update joi validation ([a4e1804](https://github.com/softwaregroup-bg/ut-test/commit/a4e1804))
+* update joi validation ([332bc67](https://github.com/softwaregroup-bg/ut-test/commit/332bc67))
+* update test for customer, user and update joi validation for them ([df8083f](https://github.com/softwaregroup-bg/ut-test/commit/df8083f))
+
+
+
 <a name="5.6.10"></a>
 ## [5.6.10](https://github.com/softwaregroup-bg/ut-test/compare/v5.6.9...v5.6.10) (2017-06-21)
 
