@@ -1,3 +1,18 @@
+<a name="5.6.20"></a>
+## [5.6.20](https://github.com/softwaregroup-bg/ut-test/compare/v5.6.19...v5.6.20) (2017-07-12)
+
+
+
+<a name="5.6.19"></a>
+## [5.6.19](https://github.com/softwaregroup-bg/ut-test/compare/v5.6.18...v5.6.19) (2017-07-12)
+
+
+### Bug Fixes
+
+* update methods ([3fe9fe0](https://github.com/softwaregroup-bg/ut-test/commit/3fe9fe0))
+
+
+
 <a name="5.6.18"></a>
 ## [5.6.18](https://github.com/softwaregroup-bg/ut-test/compare/v5.6.17...v5.6.18) (2017-07-11)
 
