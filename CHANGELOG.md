@@ -1,3 +1,19 @@
+<a name="5.7.0"></a>
+# [5.7.0](https://github.com/softwaregroup-bg/ut-test/compare/v5.6.21...v5.7.0) (2017-07-14)
+
+
+### Features
+
+* update joi validations ([11f18b7](https://github.com/softwaregroup-bg/ut-test/commit/11f18b7))
+* update joi validations for rule ([2d441ec](https://github.com/softwaregroup-bg/ut-test/commit/2d441ec))
+
+
+
+<a name="5.6.21"></a>
+## [5.6.21](https://github.com/softwaregroup-bg/ut-test/compare/v5.6.20...v5.6.21) (2017-07-13)
+
+
+
 <a name="5.6.20"></a>
 ## [5.6.20](https://github.com/softwaregroup-bg/ut-test/compare/v5.6.19...v5.6.20) (2017-07-12)
 
