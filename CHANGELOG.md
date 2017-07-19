@@ -1,3 +1,13 @@
+<a name="5.7.1"></a>
+## [5.7.1](https://github.com/softwaregroup-bg/ut-test/compare/v5.7.0...v5.7.1) (2017-07-19)
+
+
+### Bug Fixes
+
+* add productId to account get resultSet ([dcfab4b](https://github.com/softwaregroup-bg/ut-test/commit/dcfab4b))
+
+
+
 <a name="5.7.0"></a>
 # [5.7.0](https://github.com/softwaregroup-bg/ut-test/compare/v5.6.21...v5.7.0) (2017-07-14)
 
