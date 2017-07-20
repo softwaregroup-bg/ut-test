@@ -1,3 +1,13 @@
+<a name="5.7.2"></a>
+## [5.7.2](https://github.com/softwaregroup-bg/ut-test/compare/v5.7.1...v5.7.2) (2017-07-20)
+
+
+### Bug Fixes
+
+* MCTUNE-2599 - Tests fix ([1644b78](https://github.com/softwaregroup-bg/ut-test/commit/1644b78))
+
+
+
 <a name="5.7.1"></a>
 ## [5.7.1](https://github.com/softwaregroup-bg/ut-test/compare/v5.7.0...v5.7.1) (2017-07-19)
 
