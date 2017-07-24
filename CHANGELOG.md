@@ -1,3 +1,38 @@
+<a name="5.7.5"></a>
+## [5.7.5](https://github.com/softwaregroup-bg/ut-test/compare/v5.7.4...v5.7.5) (2017-07-24)
+
+
+
+<a name="5.7.4"></a>
+## [5.7.4](https://github.com/softwaregroup-bg/ut-test/compare/v5.7.3...v5.7.4) (2017-07-24)
+
+
+
+<a name="5.7.3"></a>
+## [5.7.3](https://github.com/softwaregroup-bg/ut-test/compare/v5.7.2...v5.7.3) (2017-07-21)
+
+
+
+<a name="5.7.2"></a>
+## [5.7.2](https://github.com/softwaregroup-bg/ut-test/compare/v5.7.1...v5.7.2) (2017-07-20)
+
+
+### Bug Fixes
+
+* MCTUNE-2599 - Tests fix ([1644b78](https://github.com/softwaregroup-bg/ut-test/commit/1644b78))
+
+
+
+<a name="5.7.1"></a>
+## [5.7.1](https://github.com/softwaregroup-bg/ut-test/compare/v5.7.0...v5.7.1) (2017-07-19)
+
+
+### Bug Fixes
+
+* add productId to account get resultSet ([dcfab4b](https://github.com/softwaregroup-bg/ut-test/commit/dcfab4b))
+
+
+
 <a name="5.7.0"></a>
 # [5.7.0](https://github.com/softwaregroup-bg/ut-test/compare/v5.6.21...v5.7.0) (2017-07-14)
 
