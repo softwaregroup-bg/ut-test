@@ -1,3 +1,8 @@
+<a name="5.7.8"></a>
+## [5.7.8](https://github.com/softwaregroup-bg/ut-test/compare/v5.7.7...v5.7.8) (2017-07-26)
+
+
+
 <a name="5.7.7"></a>
 ## [5.7.7](https://github.com/softwaregroup-bg/ut-test/compare/v5.7.6...v5.7.7) (2017-07-25)
 
