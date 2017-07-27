@@ -1,3 +1,13 @@
+<a name="5.7.9"></a>
+## [5.7.9](https://github.com/softwaregroup-bg/ut-test/compare/v5.7.8...v5.7.9) (2017-07-26)
+
+
+### Bug Fixes
+
+* MCTUNE-2550 - mnoKey optional field ([1b6f076](https://github.com/softwaregroup-bg/ut-test/commit/1b6f076))
+
+
+
 <a name="5.7.8"></a>
 ## [5.7.8](https://github.com/softwaregroup-bg/ut-test/compare/v5.7.7...v5.7.8) (2017-07-26)
 
