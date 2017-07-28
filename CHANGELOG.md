@@ -1,3 +1,104 @@
+<a name="5.7.9"></a>
+## [5.7.9](https://github.com/softwaregroup-bg/ut-test/compare/v5.7.8...v5.7.9) (2017-07-26)
+
+
+### Bug Fixes
+
+* MCTUNE-2550 - mnoKey optional field ([1b6f076](https://github.com/softwaregroup-bg/ut-test/commit/1b6f076))
+
+
+
+<a name="5.7.8"></a>
+## [5.7.8](https://github.com/softwaregroup-bg/ut-test/compare/v5.7.7...v5.7.8) (2017-07-26)
+
+
+
+<a name="5.7.7"></a>
+## [5.7.7](https://github.com/softwaregroup-bg/ut-test/compare/v5.7.6...v5.7.7) (2017-07-25)
+
+
+
+<a name="5.7.6"></a>
+## [5.7.6](https://github.com/softwaregroup-bg/ut-test/compare/v5.7.5...v5.7.6) (2017-07-24)
+
+
+
+<a name="5.7.5"></a>
+## [5.7.5](https://github.com/softwaregroup-bg/ut-test/compare/v5.7.4...v5.7.5) (2017-07-24)
+
+
+
+<a name="5.7.4"></a>
+## [5.7.4](https://github.com/softwaregroup-bg/ut-test/compare/v5.7.3...v5.7.4) (2017-07-24)
+
+
+
+<a name="5.7.3"></a>
+## [5.7.3](https://github.com/softwaregroup-bg/ut-test/compare/v5.7.2...v5.7.3) (2017-07-21)
+
+
+
+<a name="5.7.2"></a>
+## [5.7.2](https://github.com/softwaregroup-bg/ut-test/compare/v5.7.1...v5.7.2) (2017-07-20)
+
+
+### Bug Fixes
+
+* MCTUNE-2599 - Tests fix ([1644b78](https://github.com/softwaregroup-bg/ut-test/commit/1644b78))
+
+
+
+<a name="5.7.1"></a>
+## [5.7.1](https://github.com/softwaregroup-bg/ut-test/compare/v5.7.0...v5.7.1) (2017-07-19)
+
+
+### Bug Fixes
+
+* add productId to account get resultSet ([dcfab4b](https://github.com/softwaregroup-bg/ut-test/commit/dcfab4b))
+
+
+
+<a name="5.7.0"></a>
+# [5.7.0](https://github.com/softwaregroup-bg/ut-test/compare/v5.6.21...v5.7.0) (2017-07-14)
+
+
+### Features
+
+* update joi validations ([11f18b7](https://github.com/softwaregroup-bg/ut-test/commit/11f18b7))
+* update joi validations for rule ([2d441ec](https://github.com/softwaregroup-bg/ut-test/commit/2d441ec))
+
+
+
+<a name="5.6.21"></a>
+## [5.6.21](https://github.com/softwaregroup-bg/ut-test/compare/v5.6.20...v5.6.21) (2017-07-13)
+
+
+
+<a name="5.6.20"></a>
+## [5.6.20](https://github.com/softwaregroup-bg/ut-test/compare/v5.6.19...v5.6.20) (2017-07-12)
+
+
+
+<a name="5.6.19"></a>
+## [5.6.19](https://github.com/softwaregroup-bg/ut-test/compare/v5.6.18...v5.6.19) (2017-07-12)
+
+
+### Bug Fixes
+
+* update methods ([3fe9fe0](https://github.com/softwaregroup-bg/ut-test/commit/3fe9fe0))
+
+
+
+<a name="5.6.18"></a>
+## [5.6.18](https://github.com/softwaregroup-bg/ut-test/compare/v5.6.17...v5.6.18) (2017-07-11)
+
+
+
+<a name="5.6.17"></a>
+## [5.6.17](https://github.com/softwaregroup-bg/ut-test/compare/v5.6.16...v5.6.17) (2017-06-29)
+
+
+
 <a name="5.6.16"></a>
 ## [5.6.16](https://github.com/softwaregroup-bg/ut-test/compare/v5.6.15...v5.6.16) (2017-06-28)
 
