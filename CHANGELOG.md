@@ -1,3 +1,18 @@
+<a name="5.8.0"></a>
+# [5.8.0](https://github.com/softwaregroup-bg/ut-test/compare/v5.7.10...v5.8.0) (2017-07-31)
+
+
+### Bug Fixes
+
+* linting errors ([8712e88](https://github.com/softwaregroup-bg/ut-test/commit/8712e88))
+
+
+### Features
+
+* add joi validations for rule limit credentials and priority ([f5dafbb](https://github.com/softwaregroup-bg/ut-test/commit/f5dafbb))
+
+
+
 <a name="5.7.10"></a>
 ## [5.7.10](https://github.com/softwaregroup-bg/ut-test/compare/v5.7.9...v5.7.10) (2017-07-31)
 
