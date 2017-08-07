@@ -1,3 +1,13 @@
+<a name="5.9.0"></a>
+# [5.9.0](https://github.com/softwaregroup-bg/ut-test/compare/v5.8.0...v5.9.0) (2017-08-03)
+
+
+### Bug Fixes
+
+* update methods/account.js ([7cd2809](https://github.com/softwaregroup-bg/ut-test/commit/7cd2809))
+
+
+
 <a name="5.8.0"></a>
 # [5.8.0](https://github.com/softwaregroup-bg/ut-test/compare/v5.7.10...v5.8.0) (2017-07-31)
 
