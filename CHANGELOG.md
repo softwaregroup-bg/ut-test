@@ -1,3 +1,14 @@
+<a name="5.10.0"></a>
+# [5.10.0](https://github.com/softwaregroup-bg/ut-test/compare/v5.9.3...v5.10.0) (2017-08-18)
+
+
+### Features
+
+* add addtional params in joi validation UIS-2973 ([9be5a6e](https://github.com/softwaregroup-bg/ut-test/commit/9be5a6e))
+* add new params at audit.get method joi validation ([9256c35](https://github.com/softwaregroup-bg/ut-test/commit/9256c35))
+
+
+
 <a name="5.9.3"></a>
 ## [5.9.3](https://github.com/softwaregroup-bg/ut-test/compare/v5.9.2...v5.9.3) (2017-08-16)
 
