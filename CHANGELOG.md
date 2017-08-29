@@ -1,3 +1,13 @@
+<a name="5.10.1"></a>
+## [5.10.1](https://github.com/softwaregroup-bg/ut-test/compare/v5.10.0...v5.10.1) (2017-08-29)
+
+
+### Bug Fixes
+
+* test add valiations ([cfeb377](https://github.com/softwaregroup-bg/ut-test/commit/cfeb377))
+
+
+
 <a name="5.10.0"></a>
 # [5.10.0](https://github.com/softwaregroup-bg/ut-test/compare/v5.9.3...v5.10.0) (2017-08-18)
 
