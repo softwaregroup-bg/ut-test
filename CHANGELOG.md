@@ -1,3 +1,13 @@
+<a name="5.11.0"></a>
+# [5.11.0](https://github.com/softwaregroup-bg/ut-test/compare/v5.10.1...v5.11.0) (2017-09-01)
+
+
+### Features
+
+* rename audit action names from audit to externalAudit ([#112](https://github.com/softwaregroup-bg/ut-test/issues/112)) ([dbccdc5](https://github.com/softwaregroup-bg/ut-test/commit/dbccdc5))
+
+
+
 <a name="5.10.1"></a>
 ## [5.10.1](https://github.com/softwaregroup-bg/ut-test/compare/v5.10.0...v5.10.1) (2017-08-29)
 
