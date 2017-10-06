@@ -1,6 +1,6 @@
 {
   "name": "ut-test",
-  "version": "5.11.1-cardProductImprovements.0",
+  "version": "5.11.1-rc.11",
   "description": "UT test library",
   "main": "index.js",
   "scripts": {
