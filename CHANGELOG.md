@@ -1,3 +1,13 @@
+<a name="5.11.2"></a>
+## [5.11.2](https://github.com/softwaregroup-bg/ut-test/compare/v5.11.1...v5.11.2) (2017-10-06)
+
+
+### Bug Fixes
+
+* UIS-3449 rename cardType to cardBrand ([2b5df74](https://github.com/softwaregroup-bg/ut-test/commit/2b5df74))
+
+
+
 <a name="5.11.1"></a>
 ## [5.11.1](https://github.com/softwaregroup-bg/ut-test/compare/v5.11.0...v5.11.1) (2017-09-27)
 
