@@ -1,3 +1,34 @@
+<a name="5.12.0"></a>
+# [5.12.0](https://github.com/softwaregroup-bg/ut-test/compare/v5.11.2...v5.12.0) (2017-10-27)
+
+
+### Bug Fixes
+
+* comments deleted ([d4d946a](https://github.com/softwaregroup-bg/ut-test/commit/d4d946a))
+* PRCR1-348 ([e8c8833](https://github.com/softwaregroup-bg/ut-test/commit/e8c8833))
+* PRCR1-348 method name change ([362f131](https://github.com/softwaregroup-bg/ut-test/commit/362f131))
+* PRCR1-348 test params, methods, validations ([4118d56](https://github.com/softwaregroup-bg/ut-test/commit/4118d56))
+* PRCR1-351 tests params and validations ([211234b](https://github.com/softwaregroup-bg/ut-test/commit/211234b))
+* update joi validations & rm duplicate method ([716cc01](https://github.com/softwaregroup-bg/ut-test/commit/716cc01))
+* version ([04591da](https://github.com/softwaregroup-bg/ut-test/commit/04591da))
+
+
+### Features
+
+* add "userType" parameter for fetch sp [UIS-3547] ([e08b254](https://github.com/softwaregroup-bg/ut-test/commit/e08b254))
+
+
+
+<a name="5.11.2"></a>
+## [5.11.2](https://github.com/softwaregroup-bg/ut-test/compare/v5.11.1...v5.11.2) (2017-10-06)
+
+
+### Bug Fixes
+
+* UIS-3449 rename cardType to cardBrand ([2b5df74](https://github.com/softwaregroup-bg/ut-test/commit/2b5df74))
+
+
+
 <a name="5.11.1"></a>
 ## [5.11.1](https://github.com/softwaregroup-bg/ut-test/compare/v5.11.0...v5.11.1) (2017-09-27)
 
