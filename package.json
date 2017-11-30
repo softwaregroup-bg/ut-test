@@ -1,6 +1,6 @@
 {
   "name": "ut-test",
-  "version": "5.13.0-rc-acapulco.6",
+  "version": "5.13.0-rc-acapulco.7",
   "description": "UT test library",
   "main": "index.js",
   "scripts": {
