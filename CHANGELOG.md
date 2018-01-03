@@ -1,3 +1,8 @@
+<a name="5.13.0"></a>
+# [5.13.0](https://github.com/softwaregroup-bg/ut-test/compare/v5.13.0-rc-acapulco.11...v5.13.0) (2017-12-13)
+
+
+
 <a name="5.12.0"></a>
 # [5.12.0](https://github.com/softwaregroup-bg/ut-test/compare/v5.11.2...v5.12.0) (2017-10-27)
 
