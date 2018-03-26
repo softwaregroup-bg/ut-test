@@ -29,9 +29,9 @@
   "author": "",
   "license": "Apache-2.0",
   "devDependencies": {
-    "ut-tools": "^5.13.5"
+    "ut-tools": "^5.32.7"
   },
-  "dependencies": {
-    "joi": "10.0.6"
+  "peerDependencies": {
+    "joi": "^13.1.2"
   }
 }
