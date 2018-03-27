@@ -1,3 +1,191 @@
+<a name="5.14.1"></a>
+## [5.14.1](https://github.com/softwaregroup-bg/ut-test/compare/v5.14.0...v5.14.1) (2018-03-20)
+
+
+
+<a name="5.14.0"></a>
+# [5.14.0](https://github.com/softwaregroup-bg/ut-test/compare/v5.13.3...v5.14.0) (2018-03-04)
+
+
+
+<a name="5.14.0-rc-bahur.9"></a>
+# [5.14.0-rc-bahur.9](https://github.com/softwaregroup-bg/ut-test/compare/v5.13.2...v5.14.0-rc-bahur.9) (2018-03-02)
+
+
+### Bug Fixes
+
+* align with latest ut-port-http ([#159](https://github.com/softwaregroup-bg/ut-test/issues/159)) ([a2a76d5](https://github.com/softwaregroup-bg/ut-test/commit/a2a76d5))
+
+
+
+<a name="5.14.0-rc-bahur.8"></a>
+# [5.14.0-rc-bahur.8](https://github.com/softwaregroup-bg/ut-test/compare/v5.14.0-rc-bahur.7...v5.14.0-rc-bahur.8) (2018-02-16)
+
+
+### Bug Fixes
+
+* revert the change as requirement has changed UTP-1363 ([13e95ad](https://github.com/softwaregroup-bg/ut-test/commit/13e95ad))
+
+
+
+<a name="5.14.0-rc-bahur.7"></a>
+# [5.14.0-rc-bahur.7](https://github.com/softwaregroup-bg/ut-test/compare/v5.14.0-rc-bahur.6...v5.14.0-rc-bahur.7) (2018-02-16)
+
+
+### Bug Fixes
+
+* changes regarding add isPrimary field UTP-1363 ([06255f9](https://github.com/softwaregroup-bg/ut-test/commit/06255f9))
+* changes regarding UTP-1363 ([1f84c42](https://github.com/softwaregroup-bg/ut-test/commit/1f84c42))
+
+
+
+<a name="5.14.0-rc-bahur.6"></a>
+# [5.14.0-rc-bahur.6](https://github.com/softwaregroup-bg/ut-test/compare/v5.14.0-rc-bahur.5...v5.14.0-rc-bahur.6) (2018-02-08)
+
+
+### Bug Fixes
+
+* UTP-1254 ([1196176](https://github.com/softwaregroup-bg/ut-test/commit/1196176))
+
+
+
+<a name="5.14.0-rc-bahur.5"></a>
+# [5.14.0-rc-bahur.5](https://github.com/softwaregroup-bg/ut-test/compare/v5.14.0-rc-bahur.4...v5.14.0-rc-bahur.5) (2018-02-08)
+
+
+### Features
+
+* Update AQA tests for deleted objects in User, Role, Access policy[UTP-1237] ([ef03dfb](https://github.com/softwaregroup-bg/ut-test/commit/ef03dfb))
+
+
+
+<a name="5.14.0-rc-bahur.4"></a>
+# [5.14.0-rc-bahur.4](https://github.com/softwaregroup-bg/ut-test/compare/v5.14.0-rc-bahur.3...v5.14.0-rc-bahur.4) (2018-02-06)
+
+
+
+<a name="5.14.0-rc-bahur.3"></a>
+# [5.14.0-rc-bahur.3](https://github.com/softwaregroup-bg/ut-test/compare/v5.14.0-rc-bahur.2...v5.14.0-rc-bahur.3) (2018-02-01)
+
+
+### Bug Fixes
+
+* UTP-1257 ([e9d3b52](https://github.com/softwaregroup-bg/ut-test/commit/e9d3b52))
+
+
+### Features
+
+* changes regarding case UTP-1234 ([5968f00](https://github.com/softwaregroup-bg/ut-test/commit/5968f00))
+
+
+
+<a name="5.14.0-rc-bahur.2"></a>
+# [5.14.0-rc-bahur.2](https://github.com/softwaregroup-bg/ut-test/compare/v5.14.0-rc-bahur.1...v5.14.0-rc-bahur.2) (2018-01-25)
+
+
+
+<a name="5.14.0-rc-bahur.1"></a>
+# [5.14.0-rc-bahur.1](https://github.com/softwaregroup-bg/ut-test/compare/v5.14.0-rc-bahur.0...v5.14.0-rc-bahur.1) (2018-01-17)
+
+
+
+<a name="5.14.0-rc-bahur.0"></a>
+# [5.14.0-rc-bahur.0](https://github.com/softwaregroup-bg/ut-test/compare/v5.13.0...v5.14.0-rc-bahur.0) (2017-12-20)
+
+
+### Bug Fixes
+
+* MCTUNE-5329 Customer validations ([5659b78](https://github.com/softwaregroup-bg/ut-test/commit/5659b78))
+
+
+### Features
+
+* update joi validation for get batch [PRCR2-1439] ([712bc50](https://github.com/softwaregroup-bg/ut-test/commit/712bc50))
+
+
+
+<a name="5.12.0-rc.14"></a>
+# [5.12.0-rc.14](https://github.com/softwaregroup-bg/ut-test/compare/v5.12.0-rc.13...v5.12.0-rc.14) (2017-12-11)
+
+
+### Bug Fixes
+
+* card bin edit ([98164a1](https://github.com/softwaregroup-bg/ut-test/commit/98164a1))
+
+
+
+<a name="5.12.0-rc.13"></a>
+# [5.12.0-rc.13](https://github.com/softwaregroup-bg/ut-test/compare/v5.13.0-rc-acapulco.10...v5.12.0-rc.13) (2017-12-08)
+
+
+### Bug Fixes
+
+* card bin edit joi validations ([e375158](https://github.com/softwaregroup-bg/ut-test/commit/e375158))
+
+
+
+<a name="5.12.0-rc.12"></a>
+# [5.12.0-rc.12](https://github.com/softwaregroup-bg/ut-test/compare/v5.13.0-rc-acapulco.7...v5.12.0-rc.12) (2017-12-04)
+
+
+### Bug Fixes
+
+* ACCU-2169 ([0d2af91](https://github.com/softwaregroup-bg/ut-test/commit/0d2af91))
+
+
+
+<a name="5.12.0-rc.11"></a>
+# [5.12.0-rc.11](https://github.com/softwaregroup-bg/ut-test/compare/v5.12.0-rc.10...v5.12.0-rc.11) (2017-11-21)
+
+
+### Bug Fixes
+
+* ACCU-2180 ([e36db91](https://github.com/softwaregroup-bg/ut-test/commit/e36db91))
+
+
+
+<a name="5.12.0-rc.10"></a>
+# [5.12.0-rc.10](https://github.com/softwaregroup-bg/ut-test/compare/v5.12.0-rc.9...v5.12.0-rc.10) (2017-11-17)
+
+
+### Bug Fixes
+
+* method validation ([8b343f8](https://github.com/softwaregroup-bg/ut-test/commit/8b343f8))
+
+
+
+<a name="5.12.0-rc.9"></a>
+# [5.12.0-rc.9](https://github.com/softwaregroup-bg/ut-test/compare/v5.12.0-rc.8...v5.12.0-rc.9) (2017-11-14)
+
+
+### Bug Fixes
+
+* version bump ([0936601](https://github.com/softwaregroup-bg/ut-test/commit/0936601))
+
+
+
+<a name="5.12.0-rc.8"></a>
+# [5.12.0-rc.8](https://github.com/softwaregroup-bg/ut-test/compare/v5.13.0-rc-acapulco.2...v5.12.0-rc.8) (2017-11-14)
+
+
+### Bug Fixes
+
+* ACCU-2172 periodic card fee set to optional ([f53d4fb](https://github.com/softwaregroup-bg/ut-test/commit/f53d4fb))
+* ACCU-2172 periodic card fee set to optional ([fe6e769](https://github.com/softwaregroup-bg/ut-test/commit/fe6e769))
+* ACCU-2172 periodic card fee set to optional (comment fix) ([d47b2a8](https://github.com/softwaregroup-bg/ut-test/commit/d47b2a8))
+
+
+
+<a name="5.12.0-rc.7"></a>
+# [5.12.0-rc.7](https://github.com/softwaregroup-bg/ut-test/compare/v5.13.0-rc-acapulco.0...v5.12.0-rc.7) (2017-11-02)
+
+
+
+<a name="5.13.3"></a>
+## [5.13.3](https://github.com/softwaregroup-bg/ut-test/compare/v5.13.2...v5.13.3) (2018-03-02)
+
+
+
 <a name="5.13.2"></a>
 ## [5.13.2](https://github.com/softwaregroup-bg/ut-test/compare/v5.13.1...v5.13.2) (2018-02-27)
 
