@@ -1,3 +1,13 @@
+<a name="5.15.8"></a>
+## [5.15.8](https://github.com/softwaregroup-bg/ut-test/compare/v5.15.7...v5.15.8) (2018-04-16)
+
+
+### Bug Fixes
+
+* put joi dependency back to 'dependencies' ([ee5e581](https://github.com/softwaregroup-bg/ut-test/commit/ee5e581))
+
+
+
 <a name="5.15.7"></a>
 ## [5.15.7](https://github.com/softwaregroup-bg/ut-test/compare/v5.15.0...v5.15.7) (2018-04-16)
 
