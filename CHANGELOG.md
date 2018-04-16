@@ -1,3 +1,13 @@
+<a name="5.15.3"></a>
+## [5.15.3](https://github.com/softwaregroup-bg/ut-test/compare/v5.15.0-rc-cubalibre.2...v5.15.3) (2018-04-16)
+
+
+
+<a name="5.14.1"></a>
+## [5.14.1](https://github.com/softwaregroup-bg/ut-test/compare/v5.15.0-rc-cubalibre.1...v5.14.1) (2018-03-20)
+
+
+
 <a name="5.14.1"></a>
 ## [5.14.1](https://github.com/softwaregroup-bg/ut-test/compare/v5.14.0...v5.14.1) (2018-03-20)
 
