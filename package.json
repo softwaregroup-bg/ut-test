@@ -1,6 +1,6 @@
 {
   "name": "ut-test",
-  "version": "5.15.0-rc-cubalibre.7",
+  "version": "5.16.0-rc-cubalibre.7",
   "description": "UT test library",
   "main": "index.js",
   "scripts": {
