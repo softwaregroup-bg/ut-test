@@ -1,3 +1,58 @@
+<a name="5.15.8"></a>
+## [5.15.8](https://github.com/softwaregroup-bg/ut-test/compare/v5.15.7...v5.15.8) (2018-04-16)
+
+
+### Bug Fixes
+
+* put joi dependency back to 'dependencies' ([ee5e581](https://github.com/softwaregroup-bg/ut-test/commit/ee5e581))
+
+
+
+<a name="5.15.7"></a>
+## [5.15.7](https://github.com/softwaregroup-bg/ut-test/compare/v5.15.0...v5.15.7) (2018-04-16)
+
+
+
+<a name="5.15.0-rc-cubalibre.5"></a>
+# [5.15.0-rc-cubalibre.5](https://github.com/softwaregroup-bg/ut-test/compare/v5.15.5...v5.15.0-rc-cubalibre.5) (2018-04-16)
+
+
+
+<a name="5.15.0"></a>
+# [5.15.0](https://github.com/softwaregroup-bg/ut-test/compare/v5.15.5...v5.15.0) (2018-04-16)
+
+
+
+<a name="5.15.0-rc-cubalibre.4"></a>
+# [5.15.0-rc-cubalibre.4](https://github.com/softwaregroup-bg/ut-test/compare/v5.15.3...v5.15.0-rc-cubalibre.4) (2018-04-16)
+
+
+
+<a name="5.15.5"></a>
+## [5.15.5](https://github.com/softwaregroup-bg/ut-test/compare/v5.15.3...v5.15.5) (2018-04-16)
+
+
+
+<a name="5.15.0-rc-cubalibre.3"></a>
+# [5.15.0-rc-cubalibre.3](https://github.com/softwaregroup-bg/ut-test/compare/v5.15.0-rc-cubalibre.2...v5.15.0-rc-cubalibre.3) (2018-04-16)
+
+
+
+<a name="5.15.3"></a>
+## [5.15.3](https://github.com/softwaregroup-bg/ut-test/compare/v5.15.0-rc-cubalibre.2...v5.15.3) (2018-04-16)
+
+
+
+<a name="5.14.1"></a>
+## [5.14.1](https://github.com/softwaregroup-bg/ut-test/compare/v5.15.0-rc-cubalibre.1...v5.14.1) (2018-03-20)
+
+
+
+<a name="5.14.1"></a>
+## [5.14.1](https://github.com/softwaregroup-bg/ut-test/compare/v5.14.0...v5.14.1) (2018-03-20)
+
+
+
 <a name="5.14.0"></a>
 # [5.14.0](https://github.com/softwaregroup-bg/ut-test/compare/v5.13.3...v5.14.0) (2018-03-04)
 
