@@ -20,7 +20,8 @@
     "test": "ut-test",
     "version": "ut-version",
     "jenkins": "ut-jenkins",
-    "gitlab": "ut-gitlab"
+    "gitlab": "ut-gitlab",
+    "precover": "ut-precover"
   },
   "repository": {
     "type": "git",
