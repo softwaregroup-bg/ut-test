@@ -1,3 +1,13 @@
+<a name="5.16.0"></a>
+# [5.16.0](https://github.com/softwaregroup-bg/ut-test/compare/v5.16.0-rc-cubalibre.9...v5.16.0) (2018-04-17)
+
+
+### Bug Fixes
+
+* add precover in scripts ([a378c63](https://github.com/softwaregroup-bg/ut-test/commit/a378c63))
+
+
+
 <a name="5.15.8"></a>
 ## [5.15.8](https://github.com/softwaregroup-bg/ut-test/compare/v5.15.7...v5.15.8) (2018-04-16)
 
