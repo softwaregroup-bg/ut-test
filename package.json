@@ -1,6 +1,6 @@
 {
   "name": "ut-test",
-  "version": "5.17.0-rc-diesel.0",
+  "version": "5.17.0-rc-diesel.2",
   "description": "UT test library",
   "main": "index.js",
   "scripts": {
