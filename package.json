@@ -1,6 +1,6 @@
 {
   "name": "ut-test",
-  "version": "5.13.2-microcred.1",
+  "version": "5.13.2-microcredProduction.0",
   "description": "UT test library",
   "main": "index.js",
   "scripts": {
