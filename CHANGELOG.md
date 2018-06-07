@@ -1,3 +1,8 @@
+<a name="5.17.0"></a>
+# [5.17.0](https://github.com/softwaregroup-bg/ut-test/compare/v5.17.0-rc-diesel.7...v5.17.0) (2018-06-07)
+
+
+
 <a name="5.16.0"></a>
 # [5.16.0](https://github.com/softwaregroup-bg/ut-test/compare/v5.16.0-rc-cubalibre.9...v5.16.0) (2018-04-17)
 
