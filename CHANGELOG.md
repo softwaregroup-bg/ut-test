@@ -1,3 +1,13 @@
+<a name="5.18.0"></a>
+# [5.18.0](https://github.com/softwaregroup-bg/ut-test/compare/v5.17.0...v5.18.0) (2018-08-02)
+
+
+### Bug Fixes
+
+* card management joi validations ([f80d338](https://github.com/softwaregroup-bg/ut-test/commit/f80d338))
+
+
+
 <a name="5.17.0"></a>
 # [5.17.0](https://github.com/softwaregroup-bg/ut-test/compare/v5.17.0-rc-diesel.7...v5.17.0) (2018-06-07)
 
