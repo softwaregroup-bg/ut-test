@@ -1,3 +1,13 @@
+<a name="5.18.3"></a>
+## [5.18.3](https://github.com/softwaregroup-bg/ut-test/compare/v5.18.2...v5.18.3) (2018-10-08)
+
+
+### Bug Fixes
+
+* cipher moved to ctp local config ([f921680](https://github.com/softwaregroup-bg/ut-test/commit/f921680))
+
+
+
 <a name="5.18.2"></a>
 ## [5.18.2](https://github.com/softwaregroup-bg/ut-test/compare/v5.18.1...v5.18.2) (2018-08-31)
 
