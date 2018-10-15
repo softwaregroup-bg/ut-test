@@ -1,3 +1,14 @@
+<a name="5.18.4"></a>
+## [5.18.4](https://github.com/softwaregroup-bg/ut-test/compare/v5.18.3...v5.18.4) (2018-10-15)
+
+
+### Bug Fixes
+
+* add card type mode flag validation ([8c0d6a5](https://github.com/softwaregroup-bg/ut-test/commit/8c0d6a5))
+* cipher moved to ctp local config ([725b69f](https://github.com/softwaregroup-bg/ut-test/commit/725b69f))
+
+
+
 <a name="5.18.3"></a>
 ## [5.18.3](https://github.com/softwaregroup-bg/ut-test/compare/v5.18.2...v5.18.3) (2018-10-08)
 
