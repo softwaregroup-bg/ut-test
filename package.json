@@ -1,6 +1,6 @@
 {
   "name": "ut-test",
-  "version": "5.19.0-rc-godfather.3",
+  "version": "5.19.0-rc-godfather.4",
   "description": "UT test library",
   "main": "index.js",
   "scripts": {
