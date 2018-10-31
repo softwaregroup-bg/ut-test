@@ -30,9 +30,9 @@
   "author": "",
   "license": "Apache-2.0",
   "devDependencies": {
-    "ut-tools": "^5.32.7"
+    "ut-tools": "^6.4.2"
   },
   "dependencies": {
-    "joi": "^13.1.2"
+    "joi": "13.7.0"
   }
 }
