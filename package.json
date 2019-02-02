@@ -1,6 +1,6 @@
 {
   "name": "ut-test",
-  "version": "5.18.4",
+  "version": "5.19.0-rc-godfather.11",
   "description": "UT test library",
   "main": "index.js",
   "scripts": {
@@ -30,9 +30,9 @@
   "author": "",
   "license": "Apache-2.0",
   "devDependencies": {
-    "ut-tools": "^5.32.7"
+    "ut-tools": "^6.4.2"
   },
   "dependencies": {
-    "joi": "^13.1.2"
+    "joi": "13.7.0"
   }
 }
