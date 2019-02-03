@@ -1,3 +1,12 @@
+## [5.19.2](https://github.com/softwaregroup-bg/ut-test/compare/v5.19.1...v5.19.2) (2019-02-03)
+
+
+### Bug Fixes
+
+* timezone is minutes as string ([9a95a5b](https://github.com/softwaregroup-bg/ut-test/commit/9a95a5b))
+
+
+
 ## [5.19.1](https://github.com/softwaregroup-bg/ut-test/compare/v5.19.0...v5.19.1) (2019-02-03)
 
 
