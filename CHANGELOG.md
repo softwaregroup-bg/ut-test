@@ -1,3 +1,12 @@
+## [5.19.1](https://github.com/softwaregroup-bg/ut-test/compare/v5.19.0...v5.19.1) (2019-02-03)
+
+
+### Bug Fixes
+
+* do not hardcode timezone ([90fd800](https://github.com/softwaregroup-bg/ut-test/commit/90fd800))
+
+
+
 # [5.19.0](https://github.com/softwaregroup-bg/ut-test/compare/v5.19.0-rc-godfather.11...v5.19.0) (2019-02-02)
 
 
