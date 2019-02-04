@@ -1,3 +1,12 @@
+## [5.19.4](https://github.com/softwaregroup-bg/ut-test/compare/v5.19.3...v5.19.4) (2019-02-04)
+
+
+### Bug Fixes
+
+* forgot the minus ([fdd54bf](https://github.com/softwaregroup-bg/ut-test/commit/fdd54bf))
+
+
+
 ## [5.19.3](https://github.com/softwaregroup-bg/ut-test/compare/v5.19.2...v5.19.3) (2019-02-04)
 
 
