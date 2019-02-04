@@ -1,3 +1,12 @@
+## [5.19.3](https://github.com/softwaregroup-bg/ut-test/compare/v5.19.2...v5.19.3) (2019-02-04)
+
+
+### Bug Fixes
+
+* use toString() ([eb03bd2](https://github.com/softwaregroup-bg/ut-test/commit/eb03bd2))
+
+
+
 ## [5.19.2](https://github.com/softwaregroup-bg/ut-test/compare/v5.19.1...v5.19.2) (2019-02-03)
 
 
