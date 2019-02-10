@@ -1,3 +1,7 @@
+## [5.19.6](https://github.com/softwaregroup-bg/ut-test/compare/v5.19.5...v5.19.6) (2019-02-10)
+
+
+
 ## [5.19.5](https://github.com/softwaregroup-bg/ut-test/compare/v5.19.4...v5.19.5) (2019-02-06)
 
 
