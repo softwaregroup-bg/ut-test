@@ -30,7 +30,7 @@
   "author": "",
   "license": "Apache-2.0",
   "devDependencies": {
-    "tap": "kalinkrustev/node-tap#2536cc04faf85f1a6117c0f619167c0d90de5e07",
+    "tap": "12.5.2",
     "ut-tools": "^6.4.2"
   },
   "dependencies": {
