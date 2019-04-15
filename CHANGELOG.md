@@ -1,3 +1,12 @@
+# [5.20.0](https://github.com/softwaregroup-bg/ut-test/compare/v5.19.6...v5.20.0) (2019-04-15)
+
+
+### Features
+
+* PS-112 ([63fb1ec](https://github.com/softwaregroup-bg/ut-test/commit/63fb1ec))
+
+
+
 ## [5.19.6](https://github.com/softwaregroup-bg/ut-test/compare/v5.19.5...v5.19.6) (2019-02-10)
 
 
