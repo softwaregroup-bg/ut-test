@@ -1,3 +1,12 @@
+## [5.20.1](https://github.com/softwaregroup-bg/ut-test/compare/v5.20.0...v5.20.1) (2019-05-21)
+
+
+### Bug Fixes
+
+* failed test validation ([2a71724](https://github.com/softwaregroup-bg/ut-test/commit/2a71724))
+
+
+
 # [5.20.0](https://github.com/softwaregroup-bg/ut-test/compare/v5.19.6...v5.20.0) (2019-04-15)
 
 
