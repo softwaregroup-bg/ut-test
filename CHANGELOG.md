@@ -1,3 +1,12 @@
+## [5.20.2](https://github.com/softwaregroup-bg/ut-test/compare/v5.20.1...v5.20.2) (2019-07-19)
+
+
+### Bug Fixes
+
+* avoid big numbers ([83dbd2f](https://github.com/softwaregroup-bg/ut-test/commit/83dbd2f))
+
+
+
 ## [5.20.1](https://github.com/softwaregroup-bg/ut-test/compare/v5.20.0...v5.20.1) (2019-05-21)
 
 
