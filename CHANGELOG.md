@@ -1,3 +1,12 @@
+# [5.21.0](https://github.com/softwaregroup-bg/ut-test/compare/v5.20.3...v5.21.0) (2019-10-22)
+
+
+### Features
+
+* BAYP-791 ([10cce5b](https://github.com/softwaregroup-bg/ut-test/commit/10cce5b))
+
+
+
 ## [5.20.3](https://github.com/softwaregroup-bg/ut-test/compare/v5.20.2...v5.20.3) (2019-10-10)
 
 
