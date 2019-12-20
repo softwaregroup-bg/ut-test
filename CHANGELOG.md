@@ -1,3 +1,12 @@
+## [5.21.4](https://github.com/softwaregroup-bg/ut-test/compare/v5.21.3...v5.21.4) (2019-12-20)
+
+
+### Bug Fixes
+
+* validateAddProduct ([00a53de](https://github.com/softwaregroup-bg/ut-test/commit/00a53de))
+
+
+
 ## [5.21.3](https://github.com/softwaregroup-bg/ut-test/compare/v5.21.2...v5.21.3) (2019-12-05)
 
 
