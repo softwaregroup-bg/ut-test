@@ -1,6 +1,6 @@
 {
   "name": "ut-test",
-  "version": "6.0.0-gdpr.23",
+  "version": "6.0.0-gdpr.24",
   "description": "UT test library",
   "main": "index.js",
   "scripts": {
