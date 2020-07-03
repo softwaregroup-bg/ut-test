@@ -1,3 +1,7 @@
+## [6.0.3](https://github.com/softwaregroup-bg/ut-test/compare/v6.0.2...v6.0.3) (2020-07-03)
+
+
+
 ## [6.0.2](https://github.com/softwaregroup-bg/ut-test/compare/v6.0.1...v6.0.2) (2020-06-22)
 
 
