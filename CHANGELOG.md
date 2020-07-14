@@ -1,3 +1,12 @@
+## [6.0.4](https://github.com/softwaregroup-bg/ut-test/compare/v6.0.3...v6.0.4) (2020-07-14)
+
+
+### Bug Fixes
+
+* update bulk validation ([57f615a](https://github.com/softwaregroup-bg/ut-test/commit/57f615a29684e957e33c57893ec08feda3e27224))
+
+
+
 ## [6.0.3](https://github.com/softwaregroup-bg/ut-test/compare/v6.0.2...v6.0.3) (2020-07-03)
 
 
