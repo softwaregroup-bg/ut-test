@@ -1,3 +1,12 @@
+## [6.0.5](https://github.com/softwaregroup-bg/ut-test/compare/v6.0.4...v6.0.5) (2020-07-14)
+
+
+### Bug Fixes
+
+* ledger validations ([4ef9073](https://github.com/softwaregroup-bg/ut-test/commit/4ef9073ba057edebdb0c7c87c2ca8d6065919fa6))
+
+
+
 ## [6.0.4](https://github.com/softwaregroup-bg/ut-test/compare/v6.0.3...v6.0.4) (2020-07-14)
 
 
