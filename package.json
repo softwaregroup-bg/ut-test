@@ -31,7 +31,7 @@
   "license": "Apache-2.0",
   "devDependencies": {
     "tap": "^12.5.2",
-    "ut-tools": "^6.33.4"
+    "ut-tools": "^6.34.0"
   },
   "dependencies": {
     "joi": "13.7.0"
