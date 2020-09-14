@@ -1,3 +1,12 @@
+## [6.0.10](https://github.com/softwaregroup-bg/ut-test/compare/v6.0.9...v6.0.10) (2020-09-14)
+
+
+### Bug Fixes
+
+* transferType ([5bb5e43](https://github.com/softwaregroup-bg/ut-test/commit/5bb5e43ec890a97751471621fb735bafc018587d))
+
+
+
 ## [6.0.9](https://github.com/softwaregroup-bg/ut-test/compare/v6.0.8...v6.0.9) (2020-09-11)
 
 
