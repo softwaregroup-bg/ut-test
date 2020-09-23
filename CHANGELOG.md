@@ -1,3 +1,12 @@
+## [6.0.12](https://github.com/softwaregroup-bg/ut-test/compare/v6.0.11...v6.0.12) (2020-09-23)
+
+
+### Bug Fixes
+
+* transfer constants ([9ecbce5](https://github.com/softwaregroup-bg/ut-test/commit/9ecbce5a4ef4a4350278a5cb4a1a101d00830918))
+
+
+
 ## [6.0.11](https://github.com/softwaregroup-bg/ut-test/compare/v6.0.10...v6.0.11) (2020-09-16)
 
 
