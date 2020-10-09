@@ -1,3 +1,12 @@
+## [6.0.13](https://github.com/softwaregroup-bg/ut-test/compare/v6.0.12...v6.0.13) (2020-10-09)
+
+
+### Bug Fixes
+
+* login actorId validation ([38f8c86](https://github.com/softwaregroup-bg/ut-test/commit/38f8c862ef09c41a83fcd155ea587eacaff4ee1d))
+
+
+
 ## [6.0.12](https://github.com/softwaregroup-bg/ut-test/compare/v6.0.11...v6.0.12) (2020-09-23)
 
 
