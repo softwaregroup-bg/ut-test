@@ -1,3 +1,12 @@
+## [6.0.14](https://github.com/softwaregroup-bg/ut-test/compare/v6.0.13...v6.0.14) (2020-10-16)
+
+
+### Bug Fixes
+
+* add transfer request error ([54d8ea8](https://github.com/softwaregroup-bg/ut-test/commit/54d8ea86ba2b6b20a2c62b6ddd1e4c940591df1b))
+
+
+
 ## [6.0.13](https://github.com/softwaregroup-bg/ut-test/compare/v6.0.12...v6.0.13) (2020-10-09)
 
 
