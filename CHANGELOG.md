@@ -1,3 +1,12 @@
+## [6.0.15](https://github.com/softwaregroup-bg/ut-test/compare/v6.0.14...v6.0.15) (2020-10-19)
+
+
+### Bug Fixes
+
+* atm error added, transfer error removed ([c738cc4](https://github.com/softwaregroup-bg/ut-test/commit/c738cc4e403a596fe481a9f6c2a8a068e4fb25fe))
+
+
+
 ## [6.0.14](https://github.com/softwaregroup-bg/ut-test/compare/v6.0.13...v6.0.14) (2020-10-16)
 
 
