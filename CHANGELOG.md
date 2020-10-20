@@ -1,3 +1,12 @@
+## [6.0.16](https://github.com/softwaregroup-bg/ut-test/compare/v6.0.15...v6.0.16) (2020-10-20)
+
+
+### Bug Fixes
+
+* country fetch validation ([d1384f0](https://github.com/softwaregroup-bg/ut-test/commit/d1384f0b4b01d1e669e94f81b831f0e6397c24e6))
+
+
+
 ## [6.0.15](https://github.com/softwaregroup-bg/ut-test/compare/v6.0.14...v6.0.15) (2020-10-19)
 
 
