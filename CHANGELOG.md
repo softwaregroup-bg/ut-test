@@ -1,3 +1,12 @@
+# [6.1.0](https://github.com/softwaregroup-bg/ut-test/compare/v6.0.16...v6.1.0) (2020-10-27)
+
+
+### Features
+
+* joi upgrade ([612543b](https://github.com/softwaregroup-bg/ut-test/commit/612543beb95dfdee62747472d6b9876460dca180))
+
+
+
 ## [6.0.16](https://github.com/softwaregroup-bg/ut-test/compare/v6.0.15...v6.0.16) (2020-10-20)
 
 
