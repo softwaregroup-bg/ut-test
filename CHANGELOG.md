@@ -1,3 +1,12 @@
+## [6.1.1](https://github.com/softwaregroup-bg/ut-test/compare/v6.1.0...v6.1.1) (2020-10-28)
+
+
+### Bug Fixes
+
+* boolean validation ([f766b45](https://github.com/softwaregroup-bg/ut-test/commit/f766b458f1399ba9429945bea4d851ff278af8d7))
+
+
+
 # [6.1.0](https://github.com/softwaregroup-bg/ut-test/compare/v6.0.16...v6.1.0) (2020-10-27)
 
 
