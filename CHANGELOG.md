@@ -1,3 +1,12 @@
+## [6.1.2](https://github.com/softwaregroup-bg/ut-test/compare/v6.1.1...v6.1.2) (2020-11-05)
+
+
+### Bug Fixes
+
+* addNoNameBatchParams ([aba8425](https://github.com/softwaregroup-bg/ut-test/commit/aba8425721bb1d05970a7e545f705c7ea393bb45))
+
+
+
 ## [6.1.1](https://github.com/softwaregroup-bg/ut-test/compare/v6.1.0...v6.1.1) (2020-10-28)
 
 
