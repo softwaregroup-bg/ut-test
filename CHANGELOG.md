@@ -1,3 +1,12 @@
+## [6.1.3](https://github.com/softwaregroup-bg/ut-test/compare/v6.1.2...v6.1.3) (2020-11-10)
+
+
+### Bug Fixes
+
+* new ut-document column ([faa70db](https://github.com/softwaregroup-bg/ut-test/commit/faa70dbc3ccd4ea6c3395244a754cd2017bc324e))
+
+
+
 ## [6.1.2](https://github.com/softwaregroup-bg/ut-test/compare/v6.1.1...v6.1.2) (2020-11-05)
 
 
