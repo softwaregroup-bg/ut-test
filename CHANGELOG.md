@@ -1,3 +1,12 @@
+## [6.1.4](https://github.com/softwaregroup-bg/ut-test/compare/v6.1.3...v6.1.4) (2021-01-05)
+
+
+### Bug Fixes
+
+* allow inactivityTimeout in identity.check response ([4e6b3d7](https://github.com/softwaregroup-bg/ut-test/commit/4e6b3d7ca96c786f0488221147118160a99593b8))
+
+
+
 ## [6.1.3](https://github.com/softwaregroup-bg/ut-test/compare/v6.1.2...v6.1.3) (2020-11-10)
 
 
