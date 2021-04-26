@@ -1,3 +1,7 @@
+## [6.1.6](https://github.com/softwaregroup-bg/ut-test/compare/v6.1.5...v6.1.6) (2021-04-26)
+
+
+
 ## [6.1.5](https://github.com/softwaregroup-bg/ut-test/compare/v6.1.4...v6.1.5) (2021-03-18)
 
 
