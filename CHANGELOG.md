@@ -1,3 +1,12 @@
+## [6.1.9](https://github.com/softwaregroup-bg/ut-test/compare/v6.1.8...v6.1.9) (2021-07-12)
+
+
+### Bug Fixes
+
+* align with latest ut-user [UTCORE-121] ([3e415fc](https://github.com/softwaregroup-bg/ut-test/commit/3e415fc29d38c4c8a3a61f84cc1e40cc7a15a319))
+
+
+
 ## [6.1.8](https://github.com/softwaregroup-bg/ut-test/compare/v6.1.7...v6.1.8) (2021-05-25)
 
 
