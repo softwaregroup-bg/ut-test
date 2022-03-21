@@ -1,2 +1,5 @@
 const tap = require('tap');
-tap.pass('no tests yet');
+
+tap.test('require', async(assert) => {
+    assert.ok(require('.'), 'require');
+});
