@@ -30,8 +30,8 @@
   "author": "",
   "license": "Apache-2.0",
   "devDependencies": {
-    "tap": "^12.5.2",
-    "ut-tools": "^6.34.2"
+    "tap": "^15.0.9",
+    "ut-tools": "^6.40.5"
   },
   "dependencies": {
     "joi": "13.7.0"
