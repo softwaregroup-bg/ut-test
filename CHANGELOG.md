@@ -1,3 +1,12 @@
+## [6.1.12](https://github.com/softwaregroup-bg/ut-test/compare/v6.1.11...v6.1.12) (2022-03-21)
+
+
+### Bug Fixes
+
+* allow subAccountType ([413e9aa](https://github.com/softwaregroup-bg/ut-test/commit/413e9aa954c1f6fef74fad99a1f90d12c6f8a6c4))
+
+
+
 ## [6.1.11](https://github.com/softwaregroup-bg/ut-test/compare/v6.1.10...v6.1.11) (2022-03-21)
 
 
