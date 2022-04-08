@@ -1,3 +1,12 @@
+## [6.1.13](https://github.com/softwaregroup-bg/ut-test/compare/v6.1.12...v6.1.13) (2022-04-08)
+
+
+### Bug Fixes
+
+* policy schema ([3414ea9](https://github.com/softwaregroup-bg/ut-test/commit/3414ea99002fe555b422548e48d75594b7cbac36))
+
+
+
 ## [6.1.12](https://github.com/softwaregroup-bg/ut-test/compare/v6.1.11...v6.1.12) (2022-03-21)
 
 
