@@ -1,3 +1,12 @@
+## [6.1.14](https://github.com/softwaregroup-bg/ut-test/compare/v6.1.13...v6.1.14) (2022-04-27)
+
+
+### Bug Fixes
+
+* validations ([b3c9256](https://github.com/softwaregroup-bg/ut-test/commit/b3c9256d684fe74e7e75ea669d621d929067f015))
+
+
+
 ## [6.1.13](https://github.com/softwaregroup-bg/ut-test/compare/v6.1.12...v6.1.13) (2022-04-08)
 
 
