@@ -1,3 +1,12 @@
+## [6.1.16](https://github.com/softwaregroup-bg/ut-test/compare/v6.1.15...v6.1.16) (2022-08-31)
+
+
+### Bug Fixes
+
+* ut-ledger@5 #UTCORE-121 ([3f4a0a6](https://github.com/softwaregroup-bg/ut-test/commit/3f4a0a66df9f9aa39e693d30fdfe6ab2cf5e0247)), closes [#UTCORE-121](https://github.com/softwaregroup-bg/ut-test/issues/UTCORE-121)
+
+
+
 ## [6.1.15](https://github.com/softwaregroup-bg/ut-test/compare/v6.1.14...v6.1.15) (2022-06-03)
 
 
